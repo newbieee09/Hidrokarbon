@@ -12,4 +12,5 @@ int main(){
 	cout << "RUMUS SENYAWA ALKANA = " << "C" << c << "H" << 2*c + 2 << endl;
 	cout << "RUMUS SENYAWA ALKENA = " << "C" << c << "H" << 2*c << endl;
 	cout << "RUMUS SENYAWA ALKUNA = " << "C" << c << "H" << 2*c - 2 << endl;
+	cout << "RUMUS SENYAWA ALKOHOL = " << "C" << c << "H" << 2*c + 2 << "O" << endl;
 }

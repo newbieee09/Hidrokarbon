@@ -1,2 +1,2 @@
 # learning
-Repository untuk menyimpan dokumen dan source code program yang saya buat :D
+I'm Newbie, help me to develop some simple code better

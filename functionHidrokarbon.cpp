@@ -21,6 +21,11 @@ void Hidrokarbon(){
 	for(i=2; i<=j; i++){
 		cout << "C" << i << "H" << 2*i - 2 << endl;
 	}
+	
+	cout << "=====RUMUS SENYAWA ALKOHOL=====" << endl;
+	for(i=n; i<=j; i++){
+		cout << "C" << i << "H"	<< 2*i + 2 << "O"<< endl;
+	}
 }
 
 

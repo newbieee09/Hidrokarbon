@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	
 	int c;
-	string alkana[9] : {"metana", "etana", "propana", "butana", "pentana", "heksana", "heptana", "oktana", "nonana", "dekana};
+	char* alkana[] = {"tidak diketahui", "Metana", "Etana", "Propana", "Butana", "Pentana", "Heksana", "Heptana", "Oktana", "Nonana", "Dekana"};
 	
 	cout << "PROGRAM MENCARI RUMUS SENYAWA HIDROKARBON" << endl;
 	cout <<  "MASUKKAN JUMLAH ATOM KARBON (C) = "; cin >> c;
